@@ -1,0 +1,10 @@
+arroz,
+feijão,
+batata,
+ração,
+carne,
+cuscuz,
+ovo,
+dragão,
+salsicha,
+pimenta
